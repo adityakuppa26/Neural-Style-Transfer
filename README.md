@@ -4,4 +4,4 @@ Neural Style Transfer is a technique that takes three images: **content image**,
   
 When implemented it produces a result as shown below, where the content and the style images represent the input and the following image, the output.  
   
-![nst_readme]('tmp/nst_readme.PNG')
+![nst_readme](tmp/nst_readme.PNG)
